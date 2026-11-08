@@ -1,0 +1,7 @@
+.venv/
+profile-chrome/
+profile-edge/
+driver-cache/
+credentials.dat
+__pycache__/
+*.pyc
